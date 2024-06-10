@@ -15469,6 +15469,7 @@
   "name": "CrossFi Testnet",
   "title": "CrossFi Testnet",
   "chain": "XFI",
+  "icon": "crossfi",
   "rpc": ["https://rpc.testnet.ms"],
   "faucets": [],
   "nativeCurrency": {
@@ -15484,7 +15485,8 @@
   "explorers": [{
     "name": "CrossFi Testnet Scan",
     "url": "https://scan.testnet.ms",
-    "standard": "EIP3091"
+    "standard": "EIP3091",
+    "icon": "crossfi"
   }]
 }, {
   "name": "PHI Network V1",
